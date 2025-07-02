@@ -1,0 +1,16 @@
+C:\Users\Alumno\Desktop\Practica7\Practica7\obj\Debug\Practica7.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\Alumno\Desktop\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\Alumno\Desktop\Practica7\Practica7\bin\Debug\OpenTK.dll
+C:\Users\Alumno\Desktop\Practica7\Practica7\bin\Debug\OpenTK.pdb
+C:\Users\Alumno\Desktop\Practica7\Practica7\bin\Debug\OpenTK.xml
+C:\Users\Alumno\Desktop\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\Alumno\Desktop\Practica7\Practica7\obj\Debug\Practica7.pdb
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\Practica7\Practica7\bin\Debug\OpenTK.dll
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\Practica7\Practica7\bin\Debug\OpenTK.pdb
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\Practica7\Practica7\bin\Debug\OpenTK.xml
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\Practica7\Practica7\obj\Debug\Practica7.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\Practica7\Practica7\obj\Debug\Practica7.pdb
